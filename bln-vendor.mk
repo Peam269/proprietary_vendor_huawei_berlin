@@ -21,6 +21,17 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/bln/proprietary/odm/etc/audio/hissc/mixer_volumes_hi6250_normal.xml:$(TARGET_COPY_OUT_ODM)/etc/audio/hissc/mixer_volumes_hi6250_normal.xml \
     vendor/huawei/bln/proprietary/odm/etc/audio/hissc/pop_seq_BERLIN.xml:$(TARGET_COPY_OUT_ODM)/etc/audio/hissc/pop_seq_BERLIN.xml \
     vendor/huawei/bln/proprietary/odm/etc/audio/hissc/pop_seq_hi6250.xml:$(TARGET_COPY_OUT_ODM)/etc/audio/hissc/pop_seq_hi6250.xml \
+    vendor/huawei/bln/proprietary/odm/etc/audio/mbdrc/mbdrc_BERLIN_normal.xml:$(TARGET_COPY_OUT_ODM)/etc/audio/mbdrc/mbdrc_BERLIN_normal.xml \
+    vendor/huawei/bln/proprietary/odm/etc/audio/mbdrc/mbdrc_default.xml:$(TARGET_COPY_OUT_ODM)/etc/audio/mbdrc/mbdrc_default.xml \
+    vendor/huawei/bln/proprietary/odm/etc/audio/mbdrc/mbdrc_hi6250_normal.xml:$(TARGET_COPY_OUT_ODM)/etc/audio/mbdrc/mbdrc_hi6250_normal.xml \
+    vendor/huawei/bln/proprietary/odm/etc/audio/modem/modem_BERLIN_cmcciot.xml:$(TARGET_COPY_OUT_ODM)/etc/audio/modem/modem_BERLIN_cmcciot.xml \
+    vendor/huawei/bln/proprietary/odm/etc/audio/modem/modem_BERLIN_gcf.xml:$(TARGET_COPY_OUT_ODM)/etc/audio/modem/modem_BERLIN_gcf.xml \
+    vendor/huawei/bln/proprietary/odm/etc/audio/modem/modem_BERLIN_normal.xml:$(TARGET_COPY_OUT_ODM)/etc/audio/modem/modem_BERLIN_normal.xml \
+    vendor/huawei/bln/proprietary/odm/etc/audio/modem/modem_BERLIN_unicomiot.xml:$(TARGET_COPY_OUT_ODM)/etc/audio/modem/modem_BERLIN_unicomiot.xml \
+    vendor/huawei/bln/proprietary/odm/etc/audio/modem/modem_default.xml:$(TARGET_COPY_OUT_ODM)/etc/audio/modem/modem_default.xml \
+    vendor/huawei/bln/proprietary/odm/etc/audio/modem/modem_hi6250_normal.xml:$(TARGET_COPY_OUT_ODM)/etc/audio/modem/modem_hi6250_normal.xml \
+    vendor/huawei/bln/proprietary/odm/etc/audio/sws/sws_BERLIN_normal.xml:$(TARGET_COPY_OUT_ODM)/etc/audio/sws/sws_BERLIN_normal.xml \
+    vendor/huawei/bln/proprietary/odm/etc/audio/sws/sws_default.xml:$(TARGET_COPY_OUT_ODM)/etc/audio/sws/sws_default.xml \
     vendor/huawei/bln/proprietary/odm/lib64/hwcam/hwcam.hi6250.BERLIN.p.GC2355_LITEON.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.hi6250.BERLIN.p.GC2355_LITEON.so \
     vendor/huawei/bln/proprietary/odm/lib64/hwcam/hwcam.hi6250.BERLIN.p.HI259_OFILM.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.hi6250.BERLIN.p.HI259_OFILM.so \
     vendor/huawei/bln/proprietary/odm/lib64/hwcam/hwcam.hi6250.BERLIN.p.HI259_SUNNY.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.hi6250.BERLIN.p.HI259_SUNNY.so \
